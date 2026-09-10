@@ -27,9 +27,8 @@ A base contempla dados que simulam a operação do marketplace:
 
 - **Python 3.x**
 - **Pandas** & **NumPy** (Manipulação, limpeza e geração de dados)
-- **SQL** (Consultas e agregações)
-- **Matplotlib / Seaborn** (Visualização de dados)
-<<<<<<< HEAD
+
+
 
 =======
 >>>>>>> d587ff3eae0c9afb60ec7c7b30fb47f9ef3d6178
